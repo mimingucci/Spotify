@@ -26,7 +26,6 @@ function App() {
     <div className='grid flex grid-cols-3 bg-slate-700 pt-3 h-[510px] overflow-hidden'>
        <DetailSong />
        <ListSongs />
-    
    </div>
    <Playing/>
    </Context.Provider>
